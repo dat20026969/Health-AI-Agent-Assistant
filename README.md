@@ -1,4 +1,4 @@
-# 🩺 HIA (Agent hiểu biết về sức khỏe)
+# 🩺 AI Agent hiểu biết về sức khỏe
 
 AI Agent phân tích báo cáo máu và cung cấp thông tin chi tiết về sức khỏe.
 
