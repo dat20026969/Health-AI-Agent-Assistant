@@ -1,6 +1,12 @@
 # 🩺 AI Agent hiểu biết về sức khỏe
 
 AI Agent phân tích báo cáo máu và cung cấp thông tin chi tiết về sức khỏe.
+Python mới nhất
+Streamlit 
+Tài khoản Supabase
+Groq API key
+PDFPlumber
+Python-magic-bin (Windows)
 
 Cài những thư viện cần thiết trong requirements.txt trước bằng cách:
 pip install -r requirements.txt
